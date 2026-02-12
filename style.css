@@ -43,4 +43,7 @@ body{
 }
 
 .menu ul li a:hover {
-    background-color
+    background-color:#4b88bb;
+    display:block;
+}
+
